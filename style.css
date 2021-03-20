@@ -1,0 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Courgette&display=swap');
+*{font-family: 'Courgette', cursive;}
+.pic{
+    height: 340px;
+    width:100%; 
+}
